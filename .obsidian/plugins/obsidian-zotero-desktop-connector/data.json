@@ -1,0 +1,36 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "Inbox/",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "png",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Cite",
+      "format": "template",
+      "template": "{{citekey}}",
+      "cslStyle": "modern-language-association"
+    },
+    {
+      "name": "Full Citation",
+      "format": "template",
+      "cslStyle": "modern-language-association"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Import Paper",
+      "outputPathTemplate": "Inbox/{{citekey}}.md",
+      "imageOutputPathTemplate": "Media/zotero/{{citekey}}/",
+      "imageBaseNameTemplate": "{{citekey}}",
+      "cslStyle": "modern-language-association",
+      "templatePath": "Templates/paper.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "shouldConcat": true,
+  "pdfExportImageOCR": true,
+  "pdfExportImageTesseractPath": "/usr/bin/tesseract"
+}

@@ -1,0 +1,320 @@
+{
+  "main": {
+    "id": "c44b6f05f9e24950",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9e60d9c5c3ae27b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7148c91854ac3e3",
+            "type": "leaf",
+            "state": {
+              "type": "zdc-debug",
+              "state": {},
+              "icon": "gear",
+              "title": "Zotero Data Explorer"
+            }
+          },
+          {
+            "id": "7277b2384b35b5d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/& 2025-08-15 Schemata The Language of the Body in Middle Byzantine Illuminated Manuscripts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "& 2025-08-15 Schemata The Language of the Body in Middle Byzantine Illuminated Manuscripts"
+            }
+          },
+          {
+            "id": "9a096f8bf54f850c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/& 2025-08-15 A Symbolic-Realistic Guide for Image-Makers Performing the Contemporary Byzantine-Inspired Iconic Vision from the Spectacle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "& 2025-08-15 A Symbolic-Realistic Guide for Image-Makers Performing the Contemporary Byzantine-Inspired Iconic Vision from the Spectacle"
+            }
+          },
+          {
+            "id": "35965d610009aa29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/streiterSchemataLanguageBody2022.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "streiterSchemataLanguageBody2022"
+            }
+          },
+          {
+            "id": "001e20278607216b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/quintilianOratorsEducationVolume2014.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "quintilianOratorsEducationVolume2014"
+            }
+          },
+          {
+            "id": "3dc5cee012d0e534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Weitzmann, Kurt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weitzmann, Kurt"
+            }
+          },
+          {
+            "id": "e72ebc44b72b9cc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/octateuchs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "octateuchs"
+            }
+          },
+          {
+            "id": "3bf4833c9d2b67d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/stephensfalcasantosSchoolSoulJohn2019.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "stephensfalcasantosSchoolSoulJohn2019"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58575319fde13e68",
+    "type": "split",
+    "children": [
+      {
+        "id": "46d0976153a8b0f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "420120bdee6b2da5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eef44168bef9289b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "seeing",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "71178c411fd52f77",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 682.5
+  },
+  "right": {
+    "id": "d8dd626ca0b99331",
+    "type": "split",
+    "children": [
+      {
+        "id": "bca1fb312109eeb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "271506ad8028270e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inbox/streiterSchemataLanguageBody2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for streiterSchemataLanguageBody2022"
+            }
+          },
+          {
+            "id": "7d7391b85ade732a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "bd1bea142c7f07df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e8ef66641ed59e20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 420.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "callout-manager:Insert Callout": false
+    }
+  },
+  "active": "35965d610009aa29",
+  "lastOpenFiles": [
+    "Inbox/& 2025-08-15 Schemata The Language of the Body in Middle Byzantine Illuminated Manuscripts.md",
+    "Artefacts/artefact_10000300.md",
+    "Artefacts/artefact_10000200.md",
+    "Artefacts/artefact_10000100.md",
+    "Inbox/& 2025-08-16 Ilias Ambrosiana Cod. F. 205 P. inf., Bibliothecae Ambrosianae Mediolanensis.md",
+    "Zettelkasten/oratorical tradition.md",
+    "Zettelkasten/artefact_streiterSchemataLanguageBody2022-171-x170-y81.md",
+    "Reference notes/@cerianiIliasAmbrosianaCod1953.md",
+    "Zettelkasten/energies.md",
+    "Zettelkasten/gaze.md",
+    "Zettelkasten/Artistic vision, modes of.md",
+    "Inbox/& 2025-08-15 A Symbolic-Realistic Guide for Image-Makers Performing the Contemporary Byzantine-Inspired Iconic Vision from the Spectacle.md",
+    "Zettelkasten/Untitled 4.md",
+    "Zettelkasten/Gorea, PhD.md",
+    "Inbox/& 2025-08-16 The Iconostasis and Darśan in Orthodox Christianity and Mahāyāna Buddhism.md",
+    "Zettelkasten/Quintilian.md",
+    "Inbox/quintilianOratorsEducationVolume2014.md",
+    "Inbox/& 2025-08-15 The Orator's Education. Volume V, Books 11-12.md",
+    "Zettelkasten/ICXC gesture.md",
+    "Inbox/streiterSchemataLanguageBody2022.md",
+    "Inbox/stephensfalcasantosSchoolSoulJohn2019.md",
+    "Reference notes/@streiterSchemataLanguageBody2022.md",
+    "Media/zotero/streiterSchemataLanguageBody2022/streiterSchemataLanguageBody2022-216-x181-y64.png",
+    "Media/zotero/streiterSchemataLanguageBody2022/streiterSchemataLanguageBody2022-216-x302-y463.png",
+    "Zettelkasten/octateuchs.md",
+    "Zettelkasten/Weitzmann, Kurt.md",
+    "Media/zotero/streiterSchemataLanguageBody2022/streiterSchemataLanguageBody2022-187-x247-y293.png",
+    "Media/zotero/streiterSchemataLanguageBody2022/streiterSchemataLanguageBody2022-187-x121-y77.png",
+    "Media/zotero/streiterSchemataLanguageBody2022/streiterSchemataLanguageBody2022-186-x69-y104.png",
+    "Media/zotero/streiterSchemataLanguageBody2022/streiterSchemataLanguageBody2022-186-x232-y174.png",
+    "Zettelkasten/performative, icons.md",
+    "Files/Image files/gesture_images/streiterSchemataLanguageBody2022-170-x31-y84.png",
+    "Zettelkasten/vision, the aspect.md",
+    "Media/zotero/streiterSchemataLanguageBody2022/streiterSchemataLanguageBody2022-205-x87-y374.png",
+    "Media/zotero/streiterSchemataLanguageBody2022/streiterSchemataLanguageBody2022-205-x63-y51.png",
+    "Media/zotero/streiterSchemataLanguageBody2022/streiterSchemataLanguageBody2022-183-x117-y328.png",
+    "Reference notes",
+    "Media/zotero/streiterSchemataLanguageBody2022",
+    "Untitled.canvas",
+    "Media/zotero/goreaSymbolicRealisticGuideImageMakers",
+    "Gestures",
+    "Media/zotero/maguireGriefJoyByzantine2023",
+    "Media/zotero",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Media/zotero/pentchevaPerformativeIcon2006",
+    "Inbox",
+    "Media",
+    "Untitled 2"
+  ]
+}
