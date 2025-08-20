@@ -7,7 +7,9 @@ Tags: #vision [[Artistic vision, modes of]]
 Remember to use a link here with double opening square bracket
 # gaze
 
-"the [[mandala]] and icon in [[Japanese Esoteric Buddhism]], in which both [[seeing]] and [[being seen]] by the divine were deemed spiritual blessings granted by the divine being"
+the gaze and being gazed
+
+"the [[mandala]] and icon in [[Japanese Esoteric Buddhism]], in which both [[seeing]] and [[being seen]] by the divine were deemed spiritual blessings granted by the divine being" ^25168b
 
 ---
 # References

@@ -15,5 +15,8 @@ g) without even considering the body pose, which they extend
 h) orientation  - hand/wrist/body
 
 
+
+
 ---
 # References
+![[austinChironomiaTreatiseRhetorical1806-298-x99-y500.png]]

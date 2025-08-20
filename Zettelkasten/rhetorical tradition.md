@@ -4,9 +4,21 @@
 Status: #idea
 
 Tags: #essay #deliverable #cicero
-# oratorical tradition
+# rhetorical tradition
 
+[[Quintilian]] and other works
 
+Imagery from the following, and what it tells us
+[[& 2025-08-16 Ilias Ambrosiana Cod. F. 205 P. inf., Bibliothecae Ambrosianae Mediolanensis]]
+
+Posit to [[Temple, Richard]] that the Garrick work may be one of these
+[[& 2025-08-18 Chironomia; or, A treatise on rhetorical delivery.|Chironomia; or, A treatise on rhetorical delivery.]]
+
+[[@jbjohnbulwerChirologiaNaturallLanguage1644]]
+
+[[@engelPracticalIllustrationsRhetorical1968]]
+
+[[@caplanRhetoricaAdHerennium1954]]
 
 ---
 # References

@@ -1,10 +1,7 @@
 ---
-
-tags: [Biblioteca ambrosiana Manuscript F. 205 inf, Facsimiles, Homer, Illumination of books and manuscripts, Illustrations, Manuscripts, Greek, Miniature painting, Reproduction, Specimens, todo_library_consult, todo_see_note]
-
-
+tags: []
 publish: true
-aliases: 
+aliases:
   - Ilias Ambrosiana Cod. F. 205 P. inf., Bibliothecae Ambrosianae Mediolanensis
   - cerianiIliasAmbrosianaCod1953
 ---

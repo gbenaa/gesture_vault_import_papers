@@ -8,12 +8,14 @@ Remember to use a link here with double opening square bracket
 # performative, icons
 
 
-
 ---
 # References
 “to Chrysostom and other patristic authors schema was an essentially performative term, suggesting “...the entirety of the role one plays in the theater of life.”” ([Streiter, 2022, p. 3](zotero://select/library/items/USZKS6MZ)) ([pdf](zotero://open-pdf/library/items/B79WZSND?page=21&annotation=WK2XM7B9))
 
-![[streiterSchemataLanguageBody2022#^3133bc]]
+[[streiterSchemataLanguageBody2022]]
+
+- <mark class="hltr-yellow">"The tenth-century Book of Ceremonies,  which records extensive protocols for a wide array of religious and imperial festivals,  rites, and processions, offers little in the way of precise descriptions of ritual gestures”</mark> [Page 27](zotero://open-pdf/library/items/B79WZSND?page=27&annotation=JL3YIJM5) 
+
 
 <mark class="hltr-yellow">"the Annunciation cycle in  relation to processional icons of the Virgin Mary that gained major cultural importance in  Constantinople after Iconoclasm (726–87 and 815–43).”</mark> [Page 40](zotero://open-pdf/library/items/B79WZSND?page=40&annotation=JFCWWY2C) 
 

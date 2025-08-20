@@ -195,7 +195,7 @@ AND contains(related, "streiterSchemataLanguageBody2022")
 ![[Media/zotero/streiterSchemataLanguageBody2022/streiterSchemataLanguageBody2022-171-x346-y267.png]] 
 - <mark class="hltr-red">"Figure 15: Gospel Book, 11th century, Vat. Barb. gr. 461, fol. 1r”</mark> [Page 183](zotero://open-pdf/library/items/B79WZSND?page=183&annotation=YNJTYALU) 
 ![[Media/zotero/streiterSchemataLanguageBody2022/streiterSchemataLanguageBody2022-183-x90-y100.png]] 
-![[Media/zotero/streiterSchemataLanguageBody2022/streiterSchemataLanguageBody2022-183-x117-y328.png]] 
+![[Media/zotero/streiterSchemataLanguageBody2022/streiterSchemataLanguageBody2022-183-x117-y328.png]]  ^d7f932
 - <mark class="hltr-blue">"Figure 16: Christ Pantokrator, Deesis mosaic, Hagia Sophia, upper south gallery, 13th century, mosaic, Istanbul, Turkey”</mark> [Page 184](zotero://open-pdf/library/items/B79WZSND?page=184&annotation=JSMQIYK6) 
 - <mark class="hltr-blue">"Figure 18: Vat. gr. 747, f. 14v, Primordial creation (detail of figure 48)”</mark> [Page 186](zotero://open-pdf/library/items/B79WZSND?page=186&annotation=2RDSVEHA) 
 ![[Media/zotero/streiterSchemataLanguageBody2022/streiterSchemataLanguageBody2022-186-x232-y174.png]] 

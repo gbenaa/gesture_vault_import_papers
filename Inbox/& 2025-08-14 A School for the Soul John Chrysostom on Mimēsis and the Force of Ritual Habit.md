@@ -71,7 +71,7 @@ AND contains(related, "stephensfalcasantosSchoolSoulJohn2019")
 - <mark class="hltr-yellow">"schēma, a word John uses to refer simultaneously to one’s station in society and to the behaviors and physical objects that make that station visible to others”</mark> [Page 3](zotero://open-pdf/library/items/6WDW2US8?page=3&annotation=F7GKX8WG) 
 - <mark class="hltr-yellow">"The late antique classroom was a performative space where students learned and practiced the accepted sets of scripts for the situations they would encounter during adulthood”</mark> [Page 5](zotero://open-pdf/library/items/6WDW2US8?page=5&annotation=YQ7ADNE9) 
 - <mark class="hltr-yellow">"progymnasmata”</mark> [Page 5](zotero://open-pdf/library/items/6WDW2US8?page=5&annotation=62N9ZHLV) 
-- <mark class="hltr-yellow">"Those who attended John’s sermons walked shoulder to shoulder with Jews, those devoted to the traditional gods, and Manichaeans, not to mention Christians with opposing doctrinal commitments”</mark> [Page 6](zotero://open-pdf/library/items/6WDW2US8?page=6&annotation=VNVC7989)  ^3bb135
+- <mark class="hltr-yellow">"Those who attended John’s sermons walked shoulder to shoulder with Jews, those devoted to the traditional gods, and Manichaeans [[Manichaeism]], not to mention Christians with opposing doctrinal commitments”</mark> [Page 6](zotero://open-pdf/library/items/6WDW2US8?page=6&annotation=VNVC7989)  ^3bb135
 
 
 > [!context]

@@ -1,10 +1,7 @@
 ---
-
-tags: [Early works to 1800, Oratory, todo_add_pdf, todo_library_download]
-
-
+tags: []
 publish: true
-aliases: 
+aliases:
   - The Orator's Education. Volume V, Books 11-12
   - quintilianOratorsEducationVolume2014
 ---

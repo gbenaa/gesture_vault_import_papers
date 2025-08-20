@@ -1,4 +1,3 @@
-
 {{date:YYMMDD}}_{{time:HHmm}}
 
 Status: #gesture_description
