@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e72ebc44b72b9cc1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Files/Image files/artefacts/Screenshot from 2025-08-13 12-28-19.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot from 2025-08-13 12-28-19"
-            }
-          },
-          {
-            "id": "3dc5cee012d0e534",
+            "id": "cd79d2b1ca79c0f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Weitzmann, Kurt.md",
+                "file": "Zettelkasten/Greco-Roman and Indian religions common origin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weitzmann, Kurt"
+              "title": "Greco-Roman and Indian religions common origin"
             }
           },
           {
@@ -39,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/quintilianOratorsEducationVolume2014.md",
+                "file": "Zettelkasten/Jesus Prayer, The.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "quintilianOratorsEducationVolume2014"
+              "title": "Jesus Prayer, The"
             }
           },
           {
@@ -61,8 +49,7 @@
               "title": "stephensfalcasantosSchoolSoulJohn2019"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "peter",
+                "query": "lings",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/quintilianOratorsEducationVolume2014.md",
+                "file": "Zettelkasten/Greco-Roman and Indian religions common origin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for quintilianOratorsEducationVolume2014"
+              "title": "Backlinks for Greco-Roman and Indian religions common origin"
             }
           },
           {
@@ -154,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/quintilianOratorsEducationVolume2014.md",
+                "file": "Zettelkasten/Greco-Roman and Indian religions common origin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from quintilianOratorsEducationVolume2014"
+              "title": "Outgoing links from Greco-Roman and Indian religions common origin"
             }
           },
           {
@@ -183,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/quintilianOratorsEducationVolume2014.md",
+                "file": "Zettelkasten/Greco-Roman and Indian religions common origin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of quintilianOratorsEducationVolume2014"
+              "title": "Outline of Greco-Roman and Indian religions common origin"
             }
           }
         ]
@@ -200,6 +188,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -211,14 +200,31 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "001e20278607216b",
+  "active": "cd79d2b1ca79c0f4",
   "lastOpenFiles": [
-    "Zettelkasten/Weitzmann, Kurt.md",
+    "Zettelkasten/Lings, Martin.md",
+    "Reference notes/@lingsAncientBeliefsModern1980.md",
+    "Zettelkasten/Greco-Roman and Indian religions common origin.md",
+    "Zettelkasten/Guénon, René.md",
+    "Zettelkasten/Müller, Max.md",
+    "Zettelkasten/mudras connection.md",
+    "Zettelkasten/mimesis.md",
+    "Zettelkasten/essays.md",
+    "Zettelkasten/Jeremy.md",
+    "Zettelkasten/ICXC gesture.md",
+    "Zettelkasten/Jesus Prayer, The.md",
+    "Reference notes/@didronIconographieChretienneHistoire1843.md",
+    "Files/Image files/images_nonspecfic/icxc_debunk.png",
+    "Files/Image files/images_nonspecfic",
     "Files/Image files/artefacts/Screenshot from 2025-08-13 12-28-19.png",
+    "Zettelkasten/Gesture, described - hand near the heart.md",
+    "Zettelkasten/Gesture, described - arms folded over chest.md",
+    "Zettelkasten/Gesture, described - hands above shoulder height.md",
+    "Zettelkasten/Weitzmann, Kurt.md",
+    "Inbox/quintilianOratorsEducationVolume2014.md",
     "Zettelkasten/gesture_instance_peter_or_paul.md",
     "Zettelkasten/artefact Panel with St. Peter or St. Paul.md",
     "Zettelkasten/octateuchs.md",
-    "Inbox/quintilianOratorsEducationVolume2014.md",
     "Inbox/shinIconostasisDarsanOrthodox2020.md",
     "Templates/artefact.md",
     "Files/Image files/gesture_images/ppScreenshot from 2025-08-20 18-03-24.png",
@@ -227,29 +233,13 @@
     "Files/Image files/gesture_images/Screenshot from 2025-08-13 14-08-36.png",
     "Artefacts/artefact_10000200.md",
     "Zettelkasten/Untitled 12.md",
-    "Artefacts/artefact_10000300.md",
-    "Artefacts/artefact_10000100.md",
-    "Zettelkasten/Untitled 11.md",
-    "Zettelkasten/Untitled 10.md",
     "Files/Image files/artefacts/Panel with St. Peter or St. Paul_DT243375.jpg",
     "Files/Image files/gesture_images/Panel with St. Peter or St. Paul_DT243375.jpg",
     "Untitled.canvas",
-    "Zettelkasten/gesture images to report Sep '25.md",
-    "Inbox/& 2025-08-16 Ilias Ambrosiana Cod. F. 205 P. inf., Bibliothecae Ambrosianae Mediolanensis.md",
-    "Zettelkasten/Untitled 9.md",
-    "Zettelkasten/Untitled 8.md",
-    "Zettelkasten/(bidirectional)(non)duality.md",
-    "Zettelkasten/Nyoirin Kannon, Seated Image of.md",
-    "Zettelkasten/Jugie, Martin.md",
-    "Templates/Gesture, named - humility.md",
     "Files/Image files/gesture_images/streiterSchemataLanguageBody2022-169-x93-y310.png",
-    "Zettelkasten/Feeling of making the gestures.md",
-    "Zettelkasten/Gesture, named - pride.md",
-    "Templates/gesture_description.md",
     "Media/zotero/shinIconostasisDarsanOrthodox2020/shinIconostasisDarsanOrthodox2020-12-x57-y510.png",
     "Media/zotero/shinIconostasisDarsanOrthodox2020",
     "Media/zotero/austinChironomiaTreatiseRhetorical1806/austinChironomiaTreatiseRhetorical1806-44-x121-y566.png",
-    "Media/zotero/austinChironomiaTreatiseRhetorical1806/austinChironomiaTreatiseRhetorical1806-294-x110-y617.png",
     "Theatrical gesture and rhetorical",
     "Media/zotero/austinChironomiaTreatiseRhetorical1806",
     "Reference notes",
@@ -261,7 +251,6 @@
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Media/zotero/pentchevaPerformativeIcon2006"
+    "Untitled 1.canvas"
   ]
 }

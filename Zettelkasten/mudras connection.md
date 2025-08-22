@@ -17,7 +17,7 @@ Remember to use a link here with double opening square bracket
 
 [[gandhara]]
 
-Martin Lings’ Indian and Greco-Roman religions common origin
+[[Lings, Martin]] [[Greco-Roman and Indian religions common origin]]
 
 
 
