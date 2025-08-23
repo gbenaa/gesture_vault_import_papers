@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f9e60d9c5c3ae27b",
+        "id": "83a7fa29516f2595",
         "type": "tabs",
         "children": [
           {
-            "id": "cd79d2b1ca79c0f4",
+            "id": "996a4c285f619062",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Greco-Roman and Indian religions common origin.md",
+                "file": "Zettelkasten/gesture research, history of.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Greco-Roman and Indian religions common origin"
-            }
-          },
-          {
-            "id": "001e20278607216b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Jesus Prayer, The.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jesus Prayer, The"
-            }
-          },
-          {
-            "id": "3bf4833c9d2b67d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/stephensfalcasantosSchoolSoulJohn2019.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "stephensfalcasantosSchoolSoulJohn2019"
+              "title": "gesture research, history of"
             }
           }
         ]
@@ -81,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lings",
+                "query": "engel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 665.5
+    "width": 652.5
   },
   "right": {
     "id": "d8dd626ca0b99331",
@@ -123,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Greco-Roman and Indian religions common origin.md",
+                "file": "Zettelkasten/gesture (journal).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Greco-Roman and Indian religions common origin"
+              "title": "Backlinks for gesture (journal)"
             }
           },
           {
@@ -142,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Greco-Roman and Indian religions common origin.md",
+                "file": "Zettelkasten/gesture (journal).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Greco-Roman and Indian religions common origin"
+              "title": "Outgoing links from gesture (journal)"
             }
           },
           {
@@ -171,20 +143,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Greco-Roman and Indian religions common origin.md",
+                "file": "Zettelkasten/gesture research, history of.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Greco-Roman and Indian religions common origin"
+              "title": "Outline of gesture research, history of"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,39 +173,40 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "cd79d2b1ca79c0f4",
+  "active": "eef44168bef9289b",
   "lastOpenFiles": [
+    "Inbox/& 2025-08-22 Gesture and language.md",
+    "Zettelkasten/gesture research, history of.md",
+    "Reference notes/@flusserGestures2014.md",
+    "Reference notes/@dutschGrammarGestureComparison2002.md",
+    "Zettelkasten/gesture (journal).md",
+    "Zettelkasten/Jeremy.md",
+    "Reference notes/@weitzmannLateAntiqueEarly1977.md",
+    "Zettelkasten/Untitled 13.md",
+    "Zettelkasten/Greco-Roman and Indian religions common origin.md",
+    "Zettelkasten/gesture_instance_afoc_0000100.md",
+    "Zettelkasten/you are the book.md",
+    "Zettelkasten/krishnamurti.md",
+    "Zettelkasten/Rabbula Gospels.md",
+    "Reference notes/@cecchelliRabbulaGospels1959.md",
+    "Reference notes/@andregrabarGrabarAndreWorks.md",
+    "Zettelkasten/5th century.md",
+    "Zettelkasten/Ilias Ambrosiana.md",
+    "Inbox/& 2025-08-16 Ilias Ambrosiana Cod. F. 205 P. inf., Bibliothecae Ambrosianae Mediolanensis.md",
+    "Reference notes/@cerianiIliasAmbrosianaCod1953.md",
+    "Zettelkasten/rhetorical tradition.md",
     "Zettelkasten/Lings, Martin.md",
     "Reference notes/@lingsAncientBeliefsModern1980.md",
-    "Zettelkasten/Greco-Roman and Indian religions common origin.md",
     "Zettelkasten/Guénon, René.md",
     "Zettelkasten/Müller, Max.md",
     "Zettelkasten/mudras connection.md",
     "Zettelkasten/mimesis.md",
-    "Zettelkasten/essays.md",
-    "Zettelkasten/Jeremy.md",
-    "Zettelkasten/ICXC gesture.md",
-    "Zettelkasten/Jesus Prayer, The.md",
-    "Reference notes/@didronIconographieChretienneHistoire1843.md",
     "Files/Image files/images_nonspecfic/icxc_debunk.png",
     "Files/Image files/images_nonspecfic",
     "Files/Image files/artefacts/Screenshot from 2025-08-13 12-28-19.png",
-    "Zettelkasten/Gesture, described - hand near the heart.md",
-    "Zettelkasten/Gesture, described - arms folded over chest.md",
-    "Zettelkasten/Gesture, described - hands above shoulder height.md",
-    "Zettelkasten/Weitzmann, Kurt.md",
-    "Inbox/quintilianOratorsEducationVolume2014.md",
-    "Zettelkasten/gesture_instance_peter_or_paul.md",
-    "Zettelkasten/artefact Panel with St. Peter or St. Paul.md",
-    "Zettelkasten/octateuchs.md",
-    "Inbox/shinIconostasisDarsanOrthodox2020.md",
-    "Templates/artefact.md",
     "Files/Image files/gesture_images/ppScreenshot from 2025-08-20 18-03-24.png",
     "Files/Image files/gesture_images/coptic_Pasted image 20250820153507.jpg",
-    "Templates/gesture_instance.md",
     "Files/Image files/gesture_images/Screenshot from 2025-08-13 14-08-36.png",
-    "Artefacts/artefact_10000200.md",
-    "Zettelkasten/Untitled 12.md",
     "Files/Image files/artefacts/Panel with St. Peter or St. Paul_DT243375.jpg",
     "Files/Image files/gesture_images/Panel with St. Peter or St. Paul_DT243375.jpg",
     "Untitled.canvas",
