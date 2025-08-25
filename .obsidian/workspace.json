@@ -23,58 +23,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/anglo saxon gesture book.md",
+                "file": "Zettelkasten/ICXC gesture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "anglo saxon gesture book"
-            }
-          },
-          {
-            "id": "6cb8243c6a3a3028",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Quintilian’s Institutio Oratoria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quintilian’s Institutio Oratoria"
-            }
-          },
-          {
-            "id": "8e9902cb94702992",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/delme_todo_test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "delme_todo_test"
-            }
-          },
-          {
-            "id": "c898bb95b05b4395",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Untitled 14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 14"
+              "title": "ICXC gesture"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "icxc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Untitled 14.md",
+                "file": "Zettelkasten/ICXC gesture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 14"
+              "title": "Backlinks for ICXC gesture"
             }
           },
           {
@@ -196,20 +154,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Untitled 14.md",
+                "file": "Zettelkasten/delme_todo_test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 14"
+              "title": "Outline of delme_todo_test"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,10 +183,16 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "c898bb95b05b4395",
+  "active": "9fe1b919468ed717",
   "lastOpenFiles": [
-    "Zettelkasten/delme_todo_test.md",
-    "Zettelkasten/Untitled 14.md",
+    "Zettelkasten/bibliographical literature review.md",
+    "Zettelkasten/tasks.md",
+    "Zettelkasten/delme_todo_test 1.md",
+    "Zettelkasten/delme_todo2.md",
+    "Zettelkasten/delme_tasks_test 2.md",
+    "Zettelkasten/Jeremy.md",
+    "Zettelkasten/Quintilian’s Institutio Oratoria.md",
+    "Zettelkasten/anglo saxon gesture book.md",
     "Zettelkasten/Cahiers Archéologiques.md",
     "Zettelkasten/divine energies.md",
     "Zettelkasten/Cynthia Bourgeault.md",
@@ -258,12 +222,6 @@
     "Zettelkasten/ICXC gesture.md",
     "Zettelkasten/Gesture, described - hand near the heart.md",
     "Zettelkasten/ancient egyptian era.md",
-    "Zettelkasten/essay_Fayum Portraits and the Transmission of Higher Knowledge.md",
-    "Zettelkasten/MLA (Modern Language Association) 9th Edition.md",
-    "Zettelkasten/Quintilian’s Institutio Oratoria.md",
-    "Reference notes/@quintilianOratorsEducationVolume2014.md",
-    "Reference notes/@dutschGrammarGestureComparison2002.md",
-    "Zettelkasten/rhetorical tradition.md",
     "Files/Image files/images_nonspecfic",
     "Untitled.canvas",
     "Media/zotero/shinIconostasisDarsanOrthodox2020",
