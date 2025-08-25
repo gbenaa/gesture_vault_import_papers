@@ -1,13 +1,12 @@
 
-250805_2002
+250824_1317
 
 Status: #idea
 
-Tags: [[essay_Fayum_Byantine_icon_connection]]
+Tags:
 Remember to use a link here with double opening square bracket
-# Byzantine icons
-
-
+# energetic interface
+[[essay_Toward an Embodied Hermeneutics of Sacred Art]]
 
 ---
 # References

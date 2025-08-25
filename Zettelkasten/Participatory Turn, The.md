@@ -1,3 +1,6 @@
+---
+cg: /c/6896f1b9-5a28-8327-80b1-f05d696a4653
+---
 
 250809_0955
 
@@ -11,4 +14,4 @@ Remember to use a link here with double opening square bracket
 
 ---
 # References
-https://chatgpt.com/c/6896f1b9-5a28-8327-80b1-f05d696a4653
+

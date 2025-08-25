@@ -11,6 +11,5 @@ Remember to use a link here with double opening square bracket
 
 ---
 # References
-https://russianicon.com/ic-xc-hand-gesture-origins-and-symbolic-meaning/?utm_source=chatgpt.com
-
+https://russianicon.com/ic-xc-hand-gesture-origins-and-symbolic-meaning/
 

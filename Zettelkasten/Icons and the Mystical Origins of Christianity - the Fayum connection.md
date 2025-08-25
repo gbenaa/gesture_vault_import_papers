@@ -3,7 +3,7 @@
 
 Status: #idea
 
-Tags: [[Fayum]][[Fayum_Byantine_icon_connection]]
+Tags: [[Fayum]][[essay_Fayum_Byantine_icon_connection]]
 # Icons and the Mystical Origins of Christianity - the Fayum connection
 
 

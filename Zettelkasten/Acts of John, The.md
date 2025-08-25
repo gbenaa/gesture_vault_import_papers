@@ -3,8 +3,7 @@
 
 Status: #book
 
-Tags:  [[Fayum_Byantine_icon_connection]]
-Remember to use a link here with double opening square bracket
+Tags:  [[essay_Fayum_Byantine_icon_connection]]
 # Acts of John, The
 
 

@@ -11,17 +11,70 @@
             "id": "996a4c285f619062",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "9fe1b919468ed717",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/gesture research, history of.md",
+                "file": "Zettelkasten/anglo saxon gesture book.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gesture research, history of"
+              "title": "anglo saxon gesture book"
+            }
+          },
+          {
+            "id": "6cb8243c6a3a3028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Quintilian’s Institutio Oratoria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quintilian’s Institutio Oratoria"
+            }
+          },
+          {
+            "id": "8e9902cb94702992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/delme_todo_test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "delme_todo_test"
+            }
+          },
+          {
+            "id": "c898bb95b05b4395",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Untitled 14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 14"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -53,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "engel",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 652.5
+    "width": 827.5
   },
   "right": {
     "id": "d8dd626ca0b99331",
@@ -95,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/gesture (journal).md",
+                "file": "Zettelkasten/Untitled 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for gesture (journal)"
+              "title": "Backlinks for Untitled 14"
             }
           },
           {
@@ -143,17 +196,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/gesture research, history of.md",
+                "file": "Zettelkasten/Untitled 14.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of gesture research, history of"
+              "title": "Outline of Untitled 14"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,47 +225,48 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "eef44168bef9289b",
+  "active": "c898bb95b05b4395",
   "lastOpenFiles": [
-    "Inbox/& 2025-08-22 Gesture and language.md",
-    "Zettelkasten/gesture research, history of.md",
-    "Reference notes/@flusserGestures2014.md",
-    "Reference notes/@dutschGrammarGestureComparison2002.md",
-    "Zettelkasten/gesture (journal).md",
-    "Zettelkasten/Jeremy.md",
-    "Reference notes/@weitzmannLateAntiqueEarly1977.md",
-    "Zettelkasten/Untitled 13.md",
-    "Zettelkasten/Greco-Roman and Indian religions common origin.md",
-    "Zettelkasten/gesture_instance_afoc_0000100.md",
-    "Zettelkasten/you are the book.md",
-    "Zettelkasten/krishnamurti.md",
-    "Zettelkasten/Rabbula Gospels.md",
-    "Reference notes/@cecchelliRabbulaGospels1959.md",
+    "Zettelkasten/delme_todo_test.md",
+    "Zettelkasten/Untitled 14.md",
+    "Zettelkasten/Cahiers Archéologiques.md",
+    "Zettelkasten/divine energies.md",
+    "Zettelkasten/Cynthia Bourgeault.md",
+    "Zettelkasten/Cyntia Borgeault.md",
+    "Zettelkasten/Bawit.md",
+    "Zettelkasten/Acts of John, The.md",
+    "Zettelkasten/essay_Fayum_Byantine_icon_connection.md",
+    "Reference notes/@austinChironomiaTreatiseRhetorical1806.md",
     "Reference notes/@andregrabarGrabarAndreWorks.md",
-    "Zettelkasten/5th century.md",
-    "Zettelkasten/Ilias Ambrosiana.md",
-    "Inbox/& 2025-08-16 Ilias Ambrosiana Cod. F. 205 P. inf., Bibliothecae Ambrosianae Mediolanensis.md",
-    "Reference notes/@cerianiIliasAmbrosianaCod1953.md",
-    "Zettelkasten/rhetorical tradition.md",
-    "Zettelkasten/Lings, Martin.md",
-    "Reference notes/@lingsAncientBeliefsModern1980.md",
-    "Zettelkasten/Guénon, René.md",
-    "Zettelkasten/Müller, Max.md",
-    "Zettelkasten/mudras connection.md",
-    "Zettelkasten/mimesis.md",
-    "Files/Image files/images_nonspecfic/icxc_debunk.png",
-    "Files/Image files/images_nonspecfic",
+    "Files/Image files/artefacts/WhatsApp Image 2025-08-07 at 19.54.59.jpeg",
+    "Files/Image files/artefacts/Screenshot from 2025-08-13 14-17-53.png",
+    "Files/Image files/artefacts/Screenshot from 2025-08-13 14-05-23.png",
+    "Files/Image files/artefacts/Screenshot from 2025-08-13 12-29-16.png",
     "Files/Image files/artefacts/Screenshot from 2025-08-13 12-28-19.png",
-    "Files/Image files/gesture_images/ppScreenshot from 2025-08-20 18-03-24.png",
-    "Files/Image files/gesture_images/coptic_Pasted image 20250820153507.jpg",
-    "Files/Image files/gesture_images/Screenshot from 2025-08-13 14-08-36.png",
     "Files/Image files/artefacts/Panel with St. Peter or St. Paul_DT243375.jpg",
-    "Files/Image files/gesture_images/Panel with St. Peter or St. Paul_DT243375.jpg",
+    "Files/Image files/artefacts/Fragmentary_Shroud_with_a_Bearded_Young_Man_MET_EG45_08.202.8.jpg",
+    "Files/Image files/artefacts/Funeral_Portrait_Of_A_Woman_1191x1684_crop_center.jpg",
+    "Files/Image files/artefacts/IMG_20250806_222859.jpg",
+    "Zettelkasten/Untitled.base",
+    "Zettelkasten/artefact_Fragmentary_Shroud_with_a_Bearded_Young_Man_MET_EG45_08.202.8.md",
+    "Templates/artefact.md",
+    "Zettelkasten/artefact_fayum_w_gesture.md",
+    "Files/Image files/gesture_images/Fragmentary_Shroud_with_a_Bearded_Young_Man_MET_EG45_08.202.8.jpg",
+    "Zettelkasten/Getty's APPEAR Project.md",
+    "Zettelkasten/J.L. Austin.md",
+    "Zettelkasten/Participatory Turn, The.md",
+    "Zettelkasten/ICXC gesture.md",
+    "Zettelkasten/Gesture, described - hand near the heart.md",
+    "Zettelkasten/ancient egyptian era.md",
+    "Zettelkasten/essay_Fayum Portraits and the Transmission of Higher Knowledge.md",
+    "Zettelkasten/MLA (Modern Language Association) 9th Edition.md",
+    "Zettelkasten/Quintilian’s Institutio Oratoria.md",
+    "Reference notes/@quintilianOratorsEducationVolume2014.md",
+    "Reference notes/@dutschGrammarGestureComparison2002.md",
+    "Zettelkasten/rhetorical tradition.md",
+    "Files/Image files/images_nonspecfic",
     "Untitled.canvas",
-    "Files/Image files/gesture_images/streiterSchemataLanguageBody2022-169-x93-y310.png",
-    "Media/zotero/shinIconostasisDarsanOrthodox2020/shinIconostasisDarsanOrthodox2020-12-x57-y510.png",
     "Media/zotero/shinIconostasisDarsanOrthodox2020",
-    "Media/zotero/austinChironomiaTreatiseRhetorical1806/austinChironomiaTreatiseRhetorical1806-44-x121-y566.png",
     "Theatrical gesture and rhetorical",
     "Media/zotero/austinChironomiaTreatiseRhetorical1806",
     "Reference notes",
@@ -221,7 +274,6 @@
     "Media/zotero/goreaSymbolicRealisticGuideImageMakers",
     "Gestures",
     "Media/zotero/maguireGriefJoyByzantine2023",
-    "Media/zotero",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",

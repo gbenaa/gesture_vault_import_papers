@@ -67,13 +67,17 @@ AND contains(related, "austinChironomiaTreatiseRhetorical1806")
 
 ![[Media/zotero/austinChironomiaTreatiseRhetorical1806/austinChironomiaTreatiseRhetorical1806-44-x121-y566.png]] 
 	- quintilian 
+![[Media/zotero/austinChironomiaTreatiseRhetorical1806/austinChironomiaTreatiseRhetorical1806-158-x123-y315.png]] 
 ![[Media/zotero/austinChironomiaTreatiseRhetorical1806/austinChironomiaTreatiseRhetorical1806-276-x71-y395.png]] 
 ![[Media/zotero/austinChironomiaTreatiseRhetorical1806/austinChironomiaTreatiseRhetorical1806-294-x110-y617.png]] 
 ![[Media/zotero/austinChironomiaTreatiseRhetorical1806/austinChironomiaTreatiseRhetorical1806-298-x99-y500.png]] 
 ![[Media/zotero/austinChironomiaTreatiseRhetorical1806/austinChironomiaTreatiseRhetorical1806-348-x100-y487.png]] 
+![[Media/zotero/austinChironomiaTreatiseRhetorical1806/austinChironomiaTreatiseRhetorical1806-356-x74-y194.png]] 
 ![[Media/zotero/austinChironomiaTreatiseRhetorical1806/austinChironomiaTreatiseRhetorical1806-620-x128-y460.png]] 
 	- quintilian 
-![[Media/zotero/austinChironomiaTreatiseRhetorical1806/austinChironomiaTreatiseRhetorical1806-622-x135-y578.png]]  ^f87db1
+![[Media/zotero/austinChironomiaTreatiseRhetorical1806/austinChironomiaTreatiseRhetorical1806-622-x135-y578.png]] 
+![[Media/zotero/austinChironomiaTreatiseRhetorical1806/austinChironomiaTreatiseRhetorical1806-625-x186-y317.png]] 
+![[Media/zotero/austinChironomiaTreatiseRhetorical1806/austinChironomiaTreatiseRhetorical1806-638-x145-y556.png]] 
 
 
 > [!context]

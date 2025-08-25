@@ -1,13 +1,12 @@
 
-250805_2002
+250824_1959
 
 Status: #idea
 
-Tags: [[essay_Fayum_Byantine_icon_connection]]
+Tags:
 Remember to use a link here with double opening square bracket
-# Byzantine icons
-
-
+# MLA (Modern Language Association) 9th Edition
+Citation style I am using
 
 ---
 # References

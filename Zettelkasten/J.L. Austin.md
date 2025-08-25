@@ -1,3 +1,6 @@
+---
+cg: /c/6891d914-d0d0-832e-9988-8162013ccbd2
+---
 
 250805_1115
 
@@ -16,6 +19,4 @@ The idea that language is not just used to describe the world but also to perfor
 ---
 # References
 [[How to Do Things with Words]](1962)
-
-https://chatgpt.com/c/6891d914-d0d0-832e-9988-8162013ccbd2
 

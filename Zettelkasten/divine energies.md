@@ -4,7 +4,6 @@
 Status: #idea
 
 Tags: #essay #energies [[Saint Gregory Palamas]] #deliverable
-Remember to use a link here with double opening square bracket
 # divine energies
 
 
