@@ -1,9 +1,9 @@
 
 250807_2022
-
+- [ ] collect ALL fayum portraits with gestures; such as [[FayumPort-AbuDh2.jpg]]
 Status: #idea
 
-Tags:
+Tags: #fayum
 Remember to use a link here with double opening square bracket
 # Byzantine_icon__Fayum_connection_Temple
 

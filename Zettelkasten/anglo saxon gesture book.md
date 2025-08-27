@@ -7,6 +7,9 @@ Tags:
 Remember to use a link here with double opening square bracket
 # anglo saxon gesture book
 
+- [ ] [[sackler]] photograph this
+- [ ] [[sackler]] use for assembling [[catalogue]]
+
 [[@dodwellAngloSaxonGesturesRoman2000]]
 
 ---

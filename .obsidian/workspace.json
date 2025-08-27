@@ -4,6 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "a3d45e5a18340c04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d564757c0eaa097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/catalogue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "catalogue"
+            }
+          }
+        ]
+      },
+      {
         "id": "83a7fa29516f2595",
         "type": "tabs",
         "children": [
@@ -18,21 +38,35 @@
             }
           },
           {
-            "id": "9fe1b919468ed717",
+            "id": "5d9d4250aed8604d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/ICXC gesture.md",
+                "file": "Zettelkasten/artefact_Portrait.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICXC gesture"
+              "title": "artefact_Portrait"
+            }
+          },
+          {
+            "id": "9860eadb7d5b71ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/artefact_Mummy_portrait_of_a_boy_from_Egypt_-_London_BM_EA_6715_-_02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "artefact_Mummy_portrait_of_a_boy_from_Egypt_-_London_BM_EA_6715_-_02"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "icxc",
+                "query": "catalogu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 827.5
+    "width": 488.5
   },
   "right": {
     "id": "d8dd626ca0b99331",
@@ -106,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/ICXC gesture.md",
+                "file": "Zettelkasten/catalogue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ICXC gesture"
+              "title": "Backlinks for catalogue"
             }
           },
           {
@@ -183,25 +217,38 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "9fe1b919468ed717",
+  "active": "6d564757c0eaa097",
   "lastOpenFiles": [
-    "Zettelkasten/bibliographical literature review.md",
     "Zettelkasten/tasks.md",
+    "Zettelkasten/catalogue.md",
+    "Zettelkasten/gesture compendium.md",
+    "Reference notes/@bieberHistoryGreekRoman1961.md",
+    "Zettelkasten/anglo saxon gesture book.md",
+    "Zettelkasten/Weston Library.md",
+    "Reference notes/@massegliaGesturesPosturesBody2010.md",
+    "Zettelkasten/Cahiers Archéologiques.md",
+    "Zettelkasten/website compendium, gesture annotator and report.md",
+    "Zettelkasten/artefact_Mummy_portrait_of_a_boy_from_Egypt_-_London_BM_EA_6715_-_02.md",
+    "Files/Image files/artefacts/Mummy_portrait_of_a_boy_from_Egypt_-_London_BM_EA_6715_-_02.jpg",
+    "Files/Image files/artefacts/Unconfirmed 416759.crdownload",
+    "Zettelkasten/artefact_Portrait.md",
+    "Files/Image files/artefacts/Portrait.jpg",
+    "Zettelkasten/Fayum__Byzantine_icon_connection_Temple.md",
+    "Zettelkasten/essay_Fayum_Byantine_icon_connection.md",
+    "Zettelkasten/artefact_FayumPort-AbuDh2.md",
+    "Templates/artefact.md",
+    "Zettelkasten/ICXC gesture.md",
+    "Zettelkasten/Jeremy.md",
+    "Zettelkasten/todo; fayum lookup in library.md",
+    "Files/Image files/artefacts/FayumPort-AbuDh2.jpg",
+    "Zettelkasten/bibliographical literature review.md",
     "Zettelkasten/delme_todo_test 1.md",
     "Zettelkasten/delme_todo2.md",
     "Zettelkasten/delme_tasks_test 2.md",
-    "Zettelkasten/Jeremy.md",
     "Zettelkasten/Quintilian’s Institutio Oratoria.md",
-    "Zettelkasten/anglo saxon gesture book.md",
-    "Zettelkasten/Cahiers Archéologiques.md",
     "Zettelkasten/divine energies.md",
     "Zettelkasten/Cynthia Bourgeault.md",
     "Zettelkasten/Cyntia Borgeault.md",
-    "Zettelkasten/Bawit.md",
-    "Zettelkasten/Acts of John, The.md",
-    "Zettelkasten/essay_Fayum_Byantine_icon_connection.md",
-    "Reference notes/@austinChironomiaTreatiseRhetorical1806.md",
-    "Reference notes/@andregrabarGrabarAndreWorks.md",
     "Files/Image files/artefacts/WhatsApp Image 2025-08-07 at 19.54.59.jpeg",
     "Files/Image files/artefacts/Screenshot from 2025-08-13 14-17-53.png",
     "Files/Image files/artefacts/Screenshot from 2025-08-13 14-05-23.png",
@@ -209,19 +256,7 @@
     "Files/Image files/artefacts/Screenshot from 2025-08-13 12-28-19.png",
     "Files/Image files/artefacts/Panel with St. Peter or St. Paul_DT243375.jpg",
     "Files/Image files/artefacts/Fragmentary_Shroud_with_a_Bearded_Young_Man_MET_EG45_08.202.8.jpg",
-    "Files/Image files/artefacts/Funeral_Portrait_Of_A_Woman_1191x1684_crop_center.jpg",
-    "Files/Image files/artefacts/IMG_20250806_222859.jpg",
     "Zettelkasten/Untitled.base",
-    "Zettelkasten/artefact_Fragmentary_Shroud_with_a_Bearded_Young_Man_MET_EG45_08.202.8.md",
-    "Templates/artefact.md",
-    "Zettelkasten/artefact_fayum_w_gesture.md",
-    "Files/Image files/gesture_images/Fragmentary_Shroud_with_a_Bearded_Young_Man_MET_EG45_08.202.8.jpg",
-    "Zettelkasten/Getty's APPEAR Project.md",
-    "Zettelkasten/J.L. Austin.md",
-    "Zettelkasten/Participatory Turn, The.md",
-    "Zettelkasten/ICXC gesture.md",
-    "Zettelkasten/Gesture, described - hand near the heart.md",
-    "Zettelkasten/ancient egyptian era.md",
     "Files/Image files/images_nonspecfic",
     "Untitled.canvas",
     "Media/zotero/shinIconostasisDarsanOrthodox2020",
@@ -231,7 +266,6 @@
     "Media/zotero/streiterSchemataLanguageBody2022",
     "Media/zotero/goreaSymbolicRealisticGuideImageMakers",
     "Gestures",
-    "Media/zotero/maguireGriefJoyByzantine2023",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
