@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a3d45e5a18340c04",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6d564757c0eaa097",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/catalogue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "catalogue"
-            }
-          }
-        ]
-      },
-      {
         "id": "83a7fa29516f2595",
         "type": "tabs",
         "children": [
@@ -38,35 +18,49 @@
             }
           },
           {
-            "id": "5d9d4250aed8604d",
+            "id": "9fe1b919468ed717",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/artefact_Portrait.md",
+                "file": "Zettelkasten/anglo saxon gesture book.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "artefact_Portrait"
+              "title": "anglo saxon gesture book"
             }
           },
           {
-            "id": "9860eadb7d5b71ad",
+            "id": "4b5bebdedce3cf58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/artefact_Mummy_portrait_of_a_boy_from_Egypt_-_London_BM_EA_6715_-_02.md",
+                "file": "Zettelkasten/delme_artefact_streiterSchemataLanguageBody2022-169-x93-y310.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "artefact_Mummy_portrait_of_a_boy_from_Egypt_-_London_BM_EA_6715_-_02"
+              "title": "delme_artefact_streiterSchemataLanguageBody2022-169-x93-y310"
+            }
+          },
+          {
+            "id": "698ab2e262feba8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/essay_Toward an Embodied Hermeneutics of Sacred Art.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "essay_Toward an Embodied Hermeneutics of Sacred Art"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "catalogu",
+                "query": "dodwe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488.5
+    "width": 353.5
   },
   "right": {
     "id": "d8dd626ca0b99331",
@@ -140,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/catalogue.md",
+                "file": "Zettelkasten/anglo saxon gesture book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for catalogue"
+              "title": "Backlinks for anglo saxon gesture book"
             }
           },
           {
@@ -197,7 +191,8 @@
               "title": "Outline of delme_todo_test"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -217,34 +212,34 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "6d564757c0eaa097",
+  "active": "9fe1b919468ed717",
   "lastOpenFiles": [
     "Zettelkasten/tasks.md",
-    "Zettelkasten/catalogue.md",
-    "Zettelkasten/gesture compendium.md",
-    "Reference notes/@bieberHistoryGreekRoman1961.md",
     "Zettelkasten/anglo saxon gesture book.md",
+    "Zettelkasten/gesture_forcefulness.md",
+    "Zettelkasten/Cahiers Archéologiques.md",
+    "Zettelkasten/delme_artefact_streiterSchemataLanguageBody2022-169-x93-y310.md",
+    "Zettelkasten/essay_Toward an Embodied Hermeneutics of Sacred Art.md",
+    "Reference notes/@dodwellAngloSaxonGesturesRoman2000.md",
+    "Zettelkasten/Sacred geometry arbitrary image.md",
+    "Files/Image files/images_nonspecfic/geometry_IMG_20250827_161221.jpg",
+    "Zettelkasten/artefact_FayumPort-AbuDh2.md",
+    "Zettelkasten/website compendium, gesture annotator and report.md",
+    "Zettelkasten/catalogue.md",
+    "Zettelkasten/artefact_Portrait.md",
+    "Zettelkasten/artefact_Mummy_portrait_of_a_boy_from_Egypt_-_London_BM_EA_6715_-_02.md",
     "Zettelkasten/Weston Library.md",
     "Reference notes/@massegliaGesturesPosturesBody2010.md",
-    "Zettelkasten/Cahiers Archéologiques.md",
-    "Zettelkasten/website compendium, gesture annotator and report.md",
-    "Zettelkasten/artefact_Mummy_portrait_of_a_boy_from_Egypt_-_London_BM_EA_6715_-_02.md",
-    "Files/Image files/artefacts/Mummy_portrait_of_a_boy_from_Egypt_-_London_BM_EA_6715_-_02.jpg",
-    "Files/Image files/artefacts/Unconfirmed 416759.crdownload",
-    "Zettelkasten/artefact_Portrait.md",
+    "Reference notes/@bieberHistoryGreekRoman1961.md",
     "Files/Image files/artefacts/Portrait.jpg",
-    "Zettelkasten/Fayum__Byzantine_icon_connection_Temple.md",
-    "Zettelkasten/essay_Fayum_Byantine_icon_connection.md",
-    "Zettelkasten/artefact_FayumPort-AbuDh2.md",
-    "Templates/artefact.md",
-    "Zettelkasten/ICXC gesture.md",
-    "Zettelkasten/Jeremy.md",
-    "Zettelkasten/todo; fayum lookup in library.md",
+    "Files/Image files/artefacts/Mummy_portrait_of_a_boy_from_Egypt_-_London_BM_EA_6715_-_02.jpg",
     "Files/Image files/artefacts/FayumPort-AbuDh2.jpg",
+    "Zettelkasten/ICXC gesture.md",
     "Zettelkasten/bibliographical literature review.md",
     "Zettelkasten/delme_todo_test 1.md",
     "Zettelkasten/delme_todo2.md",
     "Zettelkasten/delme_tasks_test 2.md",
+    "Zettelkasten/Jeremy.md",
     "Zettelkasten/Quintilian’s Institutio Oratoria.md",
     "Zettelkasten/divine energies.md",
     "Zettelkasten/Cynthia Bourgeault.md",
@@ -255,7 +250,6 @@
     "Files/Image files/artefacts/Screenshot from 2025-08-13 12-29-16.png",
     "Files/Image files/artefacts/Screenshot from 2025-08-13 12-28-19.png",
     "Files/Image files/artefacts/Panel with St. Peter or St. Paul_DT243375.jpg",
-    "Files/Image files/artefacts/Fragmentary_Shroud_with_a_Bearded_Young_Man_MET_EG45_08.202.8.jpg",
     "Zettelkasten/Untitled.base",
     "Files/Image files/images_nonspecfic",
     "Untitled.canvas",
@@ -266,6 +260,7 @@
     "Media/zotero/streiterSchemataLanguageBody2022",
     "Media/zotero/goreaSymbolicRealisticGuideImageMakers",
     "Gestures",
+    "Media/zotero/maguireGriefJoyByzantine2023",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
