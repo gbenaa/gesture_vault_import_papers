@@ -19,4 +19,6 @@ h) orientation  - hand/wrist/body
 
 ---
 # References
+“One of the reasons which may be assigned for the neglect of cultivating the art of gesture, is the want of a copious and simple language for expressing its different modifications with brevity and perspicuity. Some modern authors speak of the hope or possibility of supplying this want."” ([Austin, 1806, p. 298](zotero://select/library/items/C4Z6ZSXN)) ([pdf](zotero://open-pdf/library/items/VZ8ECMCC?page=298&annotation=L5KJ9SEQ))
+
 ![[austinChironomiaTreatiseRhetorical1806-298-x99-y500.png]]
