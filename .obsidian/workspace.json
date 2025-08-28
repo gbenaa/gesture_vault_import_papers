@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/gesture research, history of.md",
+                "file": "Inbox/& 2025-08-28 Gestures and acclamations in ancient Rome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gesture research, history of"
+              "title": "& 2025-08-28 Gestures and acclamations in ancient Rome"
+            }
+          },
+          {
+            "id": "66ef88385b459d51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/& 2025-08-28 Anglo-Saxon gestures and the Roman stage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "& 2025-08-28 Anglo-Saxon gestures and the Roman stage"
+            }
+          },
+          {
+            "id": "72be3a7bc4480d08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/dodwellAngloSaxonGesturesRoman2000.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dodwellAngloSaxonGesturesRoman2000"
             }
           },
           {
@@ -35,7 +63,8 @@
               "title": "Gesture naming - the problem"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "83a7fa29516f2595",
@@ -112,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "aldre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,8 +162,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/gesture research, history of.md",
+                "file": "Inbox/dodwellAngloSaxonGesturesRoman2000.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +192,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for gesture research, history of"
+              "title": "Backlinks for dodwellAngloSaxonGesturesRoman2000"
             }
           },
           {
@@ -231,13 +259,27 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "eef44168bef9289b",
+  "active": "72be3a7bc4480d08",
   "lastOpenFiles": [
+    "Inbox/& 2025-08-28 Anglo-Saxon gestures and the Roman stage.md",
+    "Inbox/dodwellAngloSaxonGesturesRoman2000.md",
+    "Media/zotero/dodwellAngloSaxonGesturesRoman2000/dodwellAngloSaxonGesturesRoman2000-89-x42-y45.png",
+    "Media/zotero/dodwellAngloSaxonGesturesRoman2000/dodwellAngloSaxonGesturesRoman2000-47-x451-y44.png",
+    "Files/Pasted image 20250814101904.png",
+    "Media/zotero/dodwellAngloSaxonGesturesRoman2000/dodwellAngloSaxonGesturesRoman2000-78-x37-y309.png",
+    "Media/zotero/dodwellAngloSaxonGesturesRoman2000/dodwellAngloSaxonGesturesRoman2000-77-x36-y322.png",
+    "Media/zotero/dodwellAngloSaxonGesturesRoman2000",
+    "Inbox/aldreteGesturesAcclamationsAncient1999.md",
+    "Inbox/& 2025-08-28 Gestures and acclamations in ancient Rome.md",
+    "Media/zotero/aldreteGesturesAcclamationsAncient1999/aldreteGesturesAcclamationsAncient1999-7-x115-y355.png",
+    "Zettelkasten/catalogue.md",
+    "Media/zotero/aldreteGesturesAcclamationsAncient1999/aldreteGesturesAcclamationsAncient1999-4-x116-y283.png",
+    "Media/zotero/aldreteGesturesAcclamationsAncient1999/aldreteGesturesAcclamationsAncient1999-4-x115-y144.png",
+    "Media/zotero/aldreteGesturesAcclamationsAncient1999",
+    "Zettelkasten/gesture research, history of.md",
     "Inbox/& 2025-08-22 Gesture and language.md",
     "Zettelkasten/Gesture naming - the problem.md",
-    "Zettelkasten/gesture research, history of.md",
     "Zettelkasten/Jesus Prayer, The.md",
-    "Zettelkasten/catalogue.md",
     "Zettelkasten/essay_Toward an Embodied Hermeneutics of Sacred Art.md",
     "Zettelkasten/Raffan, John.md",
     "Zettelkasten/Apollo (journal).md",
@@ -256,20 +298,8 @@
     "Files/Image files/artefacts/Mummy_portrait_of_a_boy_from_Egypt_-_London_BM_EA_6715_-_02.jpg",
     "Files/Image files/artefacts/Unconfirmed 416759.crdownload",
     "Zettelkasten/artefact_Portrait.md",
-    "Files/Image files/artefacts/Portrait.jpg",
     "Zettelkasten/Fayum__Byzantine_icon_connection_Temple.md",
     "Zettelkasten/essay_Fayum_Byantine_icon_connection.md",
-    "Zettelkasten/artefact_FayumPort-AbuDh2.md",
-    "Templates/artefact.md",
-    "Zettelkasten/ICXC gesture.md",
-    "Zettelkasten/Jeremy.md",
-    "Files/Image files/artefacts/FayumPort-AbuDh2.jpg",
-    "Files/Image files/artefacts/WhatsApp Image 2025-08-07 at 19.54.59.jpeg",
-    "Files/Image files/artefacts/Screenshot from 2025-08-13 14-17-53.png",
-    "Files/Image files/artefacts/Screenshot from 2025-08-13 14-05-23.png",
-    "Files/Image files/artefacts/Screenshot from 2025-08-13 12-29-16.png",
-    "Files/Image files/artefacts/Screenshot from 2025-08-13 12-28-19.png",
-    "Files/Image files/artefacts/Panel with St. Peter or St. Paul_DT243375.jpg",
     "Zettelkasten/Untitled.base",
     "Files/Image files/images_nonspecfic",
     "Untitled.canvas",
@@ -278,8 +308,6 @@
     "Media/zotero/austinChironomiaTreatiseRhetorical1806",
     "Reference notes",
     "Media/zotero/streiterSchemataLanguageBody2022",
-    "Media/zotero/goreaSymbolicRealisticGuideImageMakers",
-    "Gestures",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
