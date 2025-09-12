@@ -3,7 +3,7 @@
 
 Status:  #book
 
-Tags: [[Temple, Richard]]
+Tags: [[Temple, Richard]] #IMOC 
 # Icons and the Mystical Origins of Christianity
 
 

@@ -6,7 +6,7 @@ aliases:
   - Schemata The Language of the Body in Middle Byzantine Illuminated Manuscripts
   - streiterSchemataLanguageBody2022
 ---
-
+[]()
 > [!link]
 > zotero_link:: [PDF](zotero://select/library/items/B79WZSND)
 

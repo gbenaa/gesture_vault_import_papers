@@ -3,7 +3,7 @@
 
 Status: #idea
 
-Tags: #essay #deliverable 
+Tags: #essay #deliverable #theme
 Remember to use a link here with double opening square bracket
 # (bidirectional)(non)duality
 The duality in terms of the [[gaze]]

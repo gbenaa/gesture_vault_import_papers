@@ -1,7 +1,7 @@
 
 250824_1344
 
-Status: #idea
+Status: #idea #scholar 
 
 Tags:  [[Grabar, André. “Plotinus and the Origins of Medieval Aesthetics.” Cahiers Archéologiques 1 (1945); 15-34. Repr. in Les origines de l’esthétique médiévale. Paris; Flammarion, 1992, 29-57.]]
 Remember to use a link here with double opening square bracket

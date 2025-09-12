@@ -9,17 +9,22 @@ Status: #idea
 Tags: #catalogue
 Remember to use a link here with double opening square bracket
 
-Current  draft:
-https://docs.google.com/spreadsheets/d/1yOyxZ3lsFPlq1Gsg6yO-1OfINXmf6n4Qtnox3082kRM/edit?usp=sharing
-terence_gesture_lexicon.sheet
+
+
 # catalogue
 - [ ] [[sackler]] use all these for the defintion of the catalogue  https://docs.google.com/document/d/1c4NhMHCWelYRNXIyyyq3b7twgnKYXdgQ9t928SnCnzc/edit?tab=t.0
 - [ ] consult other gesture books on loan in [[sackler]] to contribute to this
 - [ ] [[@bieberHistoryGreekRoman1961]]
 
+Current  draft:
+https://docs.google.com/spreadsheets/d/1kTO6R-fucvIBvqmpfc67gZENQGugcwtjkN0j4PyJ45k/edit?usp=sharing
 
-Current draft (from ref at top)
-https://docs.google.com/spreadsheets/d/1Yz9nbSUukrJbh7bQPtZ02F_vVnpxeorOFpLlD83MHRc/edit?usp=sharing
+Images
+/home/gb/gesture_project/gesture_catalogue
+
+
+Formatting the report:
+/g/g-p-68a9a68bb8f88191bd2c5b3bb20718fe-gesture-with-own-memory/c/68b601f2-6748-832d-88a6-f9634ee4efb2
 
 Entries:
 1. Gesture (handle, e.g. name)

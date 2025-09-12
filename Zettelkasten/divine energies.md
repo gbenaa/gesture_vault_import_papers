@@ -3,7 +3,7 @@
 
 Status: #idea
 
-Tags: #essay #energies [[Saint Gregory Palamas]] #deliverable
+Tags: #essay #energies [[Saint Gregory Palamas]] #deliverable #theme
 # divine energies
 
 

@@ -6,6 +6,7 @@
       {
         "id": "a3d45e5a18340c04",
         "type": "tabs",
+        "dimension": 11.050433665274655,
         "children": [
           {
             "id": "6d564757c0eaa097",
@@ -41,12 +42,110 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/dodwellAngloSaxonGesturesRoman2000.md",
+                "file": "Zettelkasten/gesture_instance_streiterSchemataLanguageBody2022-171-x346-y267.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dodwellAngloSaxonGesturesRoman2000"
+              "title": "gesture_instance_streiterSchemataLanguageBody2022-171-x346-y267"
+            }
+          },
+          {
+            "id": "26a83c32173f66da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/gesture_instance_streiterSchemataLanguageBody2022-171-x346-y267.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gesture_instance_streiterSchemataLanguageBody2022-171-x346-y267"
+            }
+          },
+          {
+            "id": "49374bcd83d61aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/hesychasm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hesychasm"
+            }
+          },
+          {
+            "id": "c98cb56945610183",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tasks"
+            }
+          },
+          {
+            "id": "c523d977dbe2811a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/& 2025-08-22 Gesture and language.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "& 2025-08-22 Gesture and language"
+            }
+          },
+          {
+            "id": "95235d2eac53d977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Gula.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gula"
+            }
+          },
+          {
+            "id": "ad24571fbc44ff05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Cult of Gula.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cult of Gula"
+            }
+          },
+          {
+            "id": "a9cae1a3b1127ddf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Temple of Hera.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Temple of Hera"
             }
           },
           {
@@ -64,52 +163,225 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       },
       {
         "id": "83a7fa29516f2595",
         "type": "tabs",
+        "dimension": 88.94956633472535,
         "children": [
           {
             "id": "996a4c285f619062",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "5d9d4250aed8604d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/artefact_Portrait.md",
+                "file": "Inbox/& 2025-08-28 Gestures and acclamations in ancient Rome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "artefact_Portrait"
+              "title": "& 2025-08-28 Gestures and acclamations in ancient Rome"
             }
           },
           {
-            "id": "9860eadb7d5b71ad",
+            "id": "9eb584962ea60a0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/artefact_Mummy_portrait_of_a_boy_from_Egypt_-_London_BM_EA_6715_-_02.md",
+                "file": "Inbox/& 2025-08-15 Schemata The Language of the Body in Middle Byzantine Illuminated Manuscripts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "artefact_Mummy_portrait_of_a_boy_from_Egypt_-_London_BM_EA_6715_-_02"
+              "title": "& 2025-08-15 Schemata The Language of the Body in Middle Byzantine Illuminated Manuscripts"
+            }
+          },
+          {
+            "id": "aa00a12e9af99e14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Kingsley, Peter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kingsley, Peter"
+            }
+          },
+          {
+            "id": "b523b36ed9f5ff5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Caria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Caria"
+            }
+          },
+          {
+            "id": "533b88adfcb13cee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Caria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Caria"
+            }
+          },
+          {
+            "id": "48ea97cb778195b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Samians.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Samians"
+            }
+          },
+          {
+            "id": "332d9d7b1cb39457",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/In the dark places of wisdom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "In the dark places of wisdom"
+            }
+          },
+          {
+            "id": "e54e7d06b3a386bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/pholarchos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pholarchos"
+            }
+          },
+          {
+            "id": "7022f28bf1917ee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Strabo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strabo"
+            }
+          },
+          {
+            "id": "b858a6bc95689f5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Plutonium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plutonium"
+            }
+          },
+          {
+            "id": "fd80c34e52967e32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/cult healing practices at the Acharaca Plutonium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cult healing practices at the Acharaca Plutonium"
+            }
+          },
+          {
+            "id": "b68e402338a322b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Apollo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apollo"
+            }
+          },
+          {
+            "id": "3705839bec4dbb0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Apollo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apollo"
+            }
+          },
+          {
+            "id": "1ddc49a58328ad1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Untitled 19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 19"
+            }
+          },
+          {
+            "id": "96902664524beef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Apollo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apollo"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -141,7 +413,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aldre",
+                "query": "apollo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,11 +434,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 488.5
+    "width": 306.5
   },
   "right": {
     "id": "d8dd626ca0b99331",
@@ -182,7 +455,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/dodwellAngloSaxonGesturesRoman2000.md",
+                "file": "Zettelkasten/Apollo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +465,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dodwellAngloSaxonGesturesRoman2000"
+              "title": "Backlinks for Apollo"
             }
           },
           {
@@ -259,55 +532,55 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "72be3a7bc4480d08",
+  "active": "96902664524beef1",
   "lastOpenFiles": [
-    "Inbox/& 2025-08-28 Anglo-Saxon gestures and the Roman stage.md",
-    "Inbox/dodwellAngloSaxonGesturesRoman2000.md",
-    "Media/zotero/dodwellAngloSaxonGesturesRoman2000/dodwellAngloSaxonGesturesRoman2000-89-x42-y45.png",
-    "Media/zotero/dodwellAngloSaxonGesturesRoman2000/dodwellAngloSaxonGesturesRoman2000-47-x451-y44.png",
-    "Files/Pasted image 20250814101904.png",
-    "Media/zotero/dodwellAngloSaxonGesturesRoman2000/dodwellAngloSaxonGesturesRoman2000-78-x37-y309.png",
-    "Media/zotero/dodwellAngloSaxonGesturesRoman2000/dodwellAngloSaxonGesturesRoman2000-77-x36-y322.png",
+    "Zettelkasten/hesychasm.md",
+    "Zettelkasten/breath control.md",
+    "Zettelkasten/Iatromantis.md",
+    "Zettelkasten/Untitled 19.md",
+    "Zettelkasten/Apollo.md",
+    "Zettelkasten/Asclepius.md",
+    "Zettelkasten/Hierapolis.md",
+    "Zettelkasten/Velia.md",
+    "Zettelkasten/pholarchos.md",
+    "Zettelkasten/cult healing practices at the Acharaca Plutonium.md",
+    "Zettelkasten/hesychia.md",
+    "Zettelkasten/pholeos.md",
+    "Zettelkasten/Strabo.md",
+    "Zettelkasten/Plutonium.md",
+    "Zettelkasten/Charonium.md",
+    "Zettelkasten/In the dark places of wisdom.md",
+    "Zettelkasten/kouros.md",
+    "Zettelkasten/kourotrophos.md",
+    "Zettelkasten/Samians.md",
+    "Zettelkasten/Phocaens.md",
+    "Zettelkasten/Caria.md",
+    "Zettelkasten/Phocea.md",
+    "Zettelkasten/Untitled 18.md",
+    "Zettelkasten/Kingsley, Peter.md",
+    "Zettelkasten/Temple of Hera.md",
+    "Zettelkasten/Cult of Gula.md",
+    "Files/Image files/artefacts/Vat. Lat. 3868, f. 67v J&M I, no. 599.png",
+    "Files/Image files/artefacts/Screenshot from 2025-09-04 23-06-27.png",
+    "Files/Image files/artefacts/plate22.png",
+    "Files/Image files/artefacts/plate13.png",
+    "Files/Image files/artefacts/plate10.png",
+    "Files/Image files/artefacts/plate04.png",
+    "Media/zotero/aldreteGesturesAcclamationsAncient1999/aldreteGesturesAcclamationsAncient1999-32-x117-y85.png",
+    "Media/zotero/aldreteGesturesAcclamationsAncient1999/aldreteGesturesAcclamationsAncient1999-30-x101-y201.png",
+    "Media/zotero/aldreteGesturesAcclamationsAncient1999/aldreteGesturesAcclamationsAncient1999-30-x136-y373.png",
+    "Media/zotero/aldreteGesturesAcclamationsAncient1999/aldreteGesturesAcclamationsAncient1999-18-x467-y310.png",
+    "Zettelkasten/Untitled 1.base",
+    "Files/Image files/gesture_images/Unconfirmed 705208.crdownload",
     "Media/zotero/dodwellAngloSaxonGesturesRoman2000",
-    "Inbox/aldreteGesturesAcclamationsAncient1999.md",
-    "Inbox/& 2025-08-28 Gestures and acclamations in ancient Rome.md",
-    "Media/zotero/aldreteGesturesAcclamationsAncient1999/aldreteGesturesAcclamationsAncient1999-7-x115-y355.png",
-    "Zettelkasten/catalogue.md",
-    "Media/zotero/aldreteGesturesAcclamationsAncient1999/aldreteGesturesAcclamationsAncient1999-4-x116-y283.png",
-    "Media/zotero/aldreteGesturesAcclamationsAncient1999/aldreteGesturesAcclamationsAncient1999-4-x115-y144.png",
     "Media/zotero/aldreteGesturesAcclamationsAncient1999",
-    "Zettelkasten/gesture research, history of.md",
-    "Inbox/& 2025-08-22 Gesture and language.md",
-    "Zettelkasten/Gesture naming - the problem.md",
-    "Zettelkasten/Jesus Prayer, The.md",
-    "Zettelkasten/essay_Toward an Embodied Hermeneutics of Sacred Art.md",
-    "Zettelkasten/Raffan, John.md",
-    "Zettelkasten/Apollo (journal).md",
-    "Zettelkasten/Cahiers Archéologiques.md",
-    "Zettelkasten/tasks.md",
-    "Zettelkasten/Sacred geometry arbitrary image.md",
-    "Zettelkasten/gesture_forcefulness.md",
-    "Files/Image files/images_nonspecfic/geometry_IMG_20250827_161221.jpg",
-    "Zettelkasten/gesture compendium.md",
-    "Reference notes/@bieberHistoryGreekRoman1961.md",
-    "Zettelkasten/anglo saxon gesture book.md",
-    "Zettelkasten/Weston Library.md",
-    "Reference notes/@massegliaGesturesPosturesBody2010.md",
-    "Zettelkasten/website compendium, gesture annotator and report.md",
-    "Zettelkasten/artefact_Mummy_portrait_of_a_boy_from_Egypt_-_London_BM_EA_6715_-_02.md",
-    "Files/Image files/artefacts/Mummy_portrait_of_a_boy_from_Egypt_-_London_BM_EA_6715_-_02.jpg",
     "Files/Image files/artefacts/Unconfirmed 416759.crdownload",
-    "Zettelkasten/artefact_Portrait.md",
-    "Zettelkasten/Fayum__Byzantine_icon_connection_Temple.md",
-    "Zettelkasten/essay_Fayum_Byantine_icon_connection.md",
     "Zettelkasten/Untitled.base",
     "Files/Image files/images_nonspecfic",
     "Untitled.canvas",
     "Media/zotero/shinIconostasisDarsanOrthodox2020",
     "Theatrical gesture and rhetorical",
     "Media/zotero/austinChironomiaTreatiseRhetorical1806",
-    "Reference notes",
-    "Media/zotero/streiterSchemataLanguageBody2022",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
