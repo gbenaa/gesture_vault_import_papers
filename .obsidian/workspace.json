@@ -6,7 +6,7 @@
       {
         "id": "a3d45e5a18340c04",
         "type": "tabs",
-        "dimension": 45.867768595041326,
+        "dimension": 57.448377581120944,
         "children": [
           {
             "id": "6d564757c0eaa097",
@@ -161,14 +161,70 @@
               "icon": "lucide-file",
               "title": "Gesture naming - the problem"
             }
+          },
+          {
+            "id": "18fa6c211283660e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/In the dark places of wisdom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "In the dark places of wisdom"
+            }
+          },
+          {
+            "id": "f7ad54cc0df6d0ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Hermeticism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hermeticism"
+            }
+          },
+          {
+            "id": "cbca4a01c9a32a3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Theosebeia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Theosebeia"
+            }
+          },
+          {
+            "id": "e461b33b7cf39f65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Theosebeia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Theosebeia"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 14
       },
       {
         "id": "83a7fa29516f2595",
         "type": "tabs",
-        "dimension": 54.132231404958674,
+        "dimension": 42.551622418879056,
         "children": [
           {
             "id": "996a4c285f619062",
@@ -390,14 +446,10 @@
             "id": "71073b4b8f8b33a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/artefact_Cratere di Parthenopaios.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "artefact_Cratere di Parthenopaios"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -433,7 +485,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#hermes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -537,7 +589,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 605.5
+    "width": 213.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -553,10 +605,17 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "bd1bea142c7f07df",
+  "active": "e461b33b7cf39f65",
   "lastOpenFiles": [
-    "Zettelkasten/artefact_Eleusinian_hydria_Antikensammlung_Berlin_1984.46.md",
+    "Zettelkasten/Hermeticism.md",
+    "Zettelkasten/Zosimos.md",
+    "Zettelkasten/Theosebeia.md",
+    "Zettelkasten/θεοσέβεια.md",
+    "Zettelkasten/In the dark places of wisdom.md",
+    "Zettelkasten/Icons and the Mystical Origins of Christianity - bibliography.md",
     "Zettelkasten/artefact_Cratere di Parthenopaios.md",
+    "Zettelkasten/Apollo.md",
+    "Zettelkasten/artefact_Eleusinian_hydria_Antikensammlung_Berlin_1984.46.md",
     "Files/Image files/artefacts/Cratere di Parthenopaios.jpg",
     "Zettelkasten/Eleusinian_hydria_Antikensammlung_Berlin_1984_46.md",
     "Zettelkasten/Temple of Hera.md",
@@ -564,25 +623,18 @@
     "Zettelkasten/Eleusinian_hydria_Antikensammlung_Berlin_1984.46.jpg.md",
     "Zettelkasten/teletai.md",
     "Files/Image files/artefacts/Eleusinian_hydria_Antikensammlung_Berlin_1984.46.jpg",
-    "Zettelkasten/In the dark places of wisdom.md",
     "Zettelkasten/Kingsley, Peter.md",
-    "Zettelkasten/Icons and the Mystical Origins of Christianity - bibliography.md",
     "Zettelkasten/Cult of Gula.md",
     "Zettelkasten/Yulia Ustinova.md",
     "Zettelkasten/Caves and the Ancient Greek Mind.md",
     "Zettelkasten/Caria.md",
     "Zettelkasten/Phocea.md",
-    "Zettelkasten/Apollo.md",
     "Zettelkasten/Greek Magical Papyri, The.md",
     "Zettelkasten/Untitled 20.md",
     "Zettelkasten/hesychasm.md",
     "Zettelkasten/breath control.md",
     "Zettelkasten/Iatromantis.md",
     "Zettelkasten/Untitled 19.md",
-    "Zettelkasten/Asclepius.md",
-    "Zettelkasten/Hierapolis.md",
-    "Zettelkasten/Velia.md",
-    "Zettelkasten/pholarchos.md",
     "Files/Image files/artefacts/Vat. Lat. 3868, f. 67v J&M I, no. 599.png",
     "Files/Image files/artefacts/Screenshot from 2025-09-04 23-06-27.png",
     "Files/Image files/artefacts/plate22.png",

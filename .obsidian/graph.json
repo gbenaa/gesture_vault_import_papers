@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "wisdom",
+  "search": "mystical ",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.5802469135802408,
+  "scale": 1.5802469135802404,
   "close": true
 }
